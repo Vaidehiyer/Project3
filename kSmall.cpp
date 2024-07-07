@@ -1,3 +1,18 @@
+/**
+ * @file kSmall.cpp
+ * @author Hakim Abdisalam
+ * StartID: oc3378es
+ * @brief KSmall Algorithm implementation and test file
+ * @version 0.1
+ * @date 2024-07-07
+ * Instructor: Jerome Covington
+ * Due date: 07/08/2024
+ * 
+ * 
+ * @copyright Copyright (c) 2024
+ * 
+ */
+
 #include <iostream>
 #include <cstdlib>
 using namespace std;
