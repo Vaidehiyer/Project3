@@ -1,0 +1,19 @@
+Script started on 2024-07-07 19:08:16+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="149" LINES="11"]
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ g++ ks[KSmall.cpp -o kSmall
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ ./ks[KSmall 
+Enter the size of the array: 5
+Enter 5 elements: 12 5 10 8 6 20
+Enter the value of k: 4
+The 4th smallest element is 12
+Testing kth smallest in S1
+Array: 7 4 3 6 1 
+3rd smallest: 4
+Testing kth smallest is the pivot
+Array: 6 3 1 10 8 4 
+4th smallest: 6
+Testing kth smallest in S2
+Array: 1 3 5 2 19 13 4 
+6th smallest: 13
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ exit
+
+Script done on 2024-07-07 19:08:57+00:00 [COMMAND_EXIT_CODE="0"]
